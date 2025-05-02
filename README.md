@@ -46,11 +46,11 @@ pip install pandas matplotlib seaborn
 
 ## 🖼️ Sample Visualization
 
-![Sample Chart](path/to/screenshot.png)
+[YoungTalents](YoungTalents.png)
 
 ## 📁 Output
 
-- `data/genclik_yetenek_listesi.csv`: List of young high-potential players
+- `data/genclik_yetenek_listesi.csv` : List of young high-potential players
 
 ## ✍️ Contribution
 
