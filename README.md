@@ -51,7 +51,8 @@ pip install pandas matplotlib seaborn
 
 ## 📁 Output
 
-- `data/genclik_yetenek_listesi.csv` : List of young high-potential players
+List of young high-potential players
+- [Veri.xlsx](https://github.com/user-attachments/files/20013099/Veri.xlsx)
 
 ## ✍️ Contribution
 
