@@ -4,15 +4,6 @@
 
 This project aims to identify young and high-potential football players using data analysis. FIFA 21 player data is used to discover and analyze promising talents.
 
-## 📁 Project Structure
-
-📦 football-talent-identifier/
-├── 📂 data/ # 📊 Dataset and output files
-│ └── 📄 genclik_yetenek_listesi.csv
-├── 📓 analysis.ipynb # 📈 Main analysis notebook
-└── 📝 README.md # 📃 Project description
-
-
 ## 📊 Dataset Used
 
 - **Dataset:** `players_21.csv` (FIFA 21 dataset)
