@@ -6,11 +6,11 @@ This project aims to identify young and high-potential football players using da
 
 ## 📁 Project Structure
 
-football-talent-identifier/
-│
-├── data/                     # Dataset and output files
-├── analysis.ipynb            # Main analysis notebook
-└── README.md                 # Project description
+📦 football-talent-identifier/
+├── 📂 data/ # 📊 Dataset and output files
+│ └── 📄 genclik_yetenek_listesi.csv
+├── 📓 analysis.ipynb # 📈 Main analysis notebook
+└── 📝 README.md # 📃 Project description
 
 
 ## 📊 Dataset Used
