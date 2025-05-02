@@ -1,5 +1,6 @@
 
 # Football Talent Identifier
+![picture](https://github.com/user-attachments/assets/53c20951-34ca-4798-b2e7-1673817d12fc)
 
 This project aims to identify young and high-potential football players using data analysis. FIFA 21 player data is used to discover and analyze promising talents.
 
